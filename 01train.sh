@@ -1,0 +1,1 @@
+xtuner train /root/personal_assistant/actor/internlm_chat_7b_actor01.py --deepspeed deepspeed_zero2
